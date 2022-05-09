@@ -129,7 +129,3 @@ MISPLACED
 4 5 6 
 7 8 0 
 ```
-
-
-## :page_facing_up: License
-[MIT](https://choosealicense.com/licenses/mit/)
